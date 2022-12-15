@@ -1,3 +1,2 @@
 admin, c'$2b$12$LBI5cgKa8FfdjpIEhvi6sOKDLZ6/.SBJeqk.8Rk2Gzb8hhu.ySvEC'
 user, b'$2b$12$KlI4fCljTbb9o6Ph7utkKuvGfYNJvKduyEFCyl/5zjr.asKB1IwXS'
-
