@@ -58,7 +58,6 @@ def changeprise(Item2=None, NewName=None, Newprise=None):
     f = open(fn, 'w' , encoding="utf-8")
     f.writelines(output)
     f.close()
-    print('''АЛЁ НИХУЯ СЕБЕ РАБОТАЕТ!''')
 
     NewName = input("Введи новое название товара:")
     Newprise = input("Введи новую цену товара:")
